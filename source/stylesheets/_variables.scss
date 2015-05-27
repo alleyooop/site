@@ -10,11 +10,11 @@ $gray:                   #666;
 $gray-light:             #bbb;
 $gray-lighter:           lighten($gray-base, 93.5%); // #eee
 
-$brand-primary:         #B703F4;
-$brand-success:         #FFCB00;
-$brand-info:            #01579B;
+$brand-primary:         #9280F1;
+$brand-success:         #EC8F21;
+$brand-info:            #85E5FE;
 $brand-warning:         #EF6C00;
-$brand-danger:          #e51c23;
+$brand-danger:          #EB755F;
 $brand-grey:            #90A4AE;
 
 
@@ -23,7 +23,7 @@ $brand-grey:            #90A4AE;
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #F9F9F9;
+$body-bg:               #DDD8DD;
 //** Global text color on `<body>`.
 $text-color:            $gray;
 

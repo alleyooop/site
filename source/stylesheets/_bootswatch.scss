@@ -2,7 +2,7 @@
 // Bootswatch
 // -----------------------------------------------------
 
-@import url("//fonts.googleapis.com/css?family=Roboto:300,400,500");
+@import url("//fonts.googleapis.com/css?family=Roboto:500");
 
 // Navbar =====================================================================
 
@@ -299,18 +299,18 @@ select.form-control {
           background-color: lighten($progress-bar-bg, 35%);
         }
     }
-    
+
     &-success:last-child.progress-bar:before {
       background-color: lighten($brand-success, 35%);
     }
-    
+
     &-info:last-child.progress-bar:before {
       background-color: lighten($brand-info, 45%);
     }
     &-warning:last-child.progress-bar:before {
       background-color: lighten($brand-warning, 35%);
     }
-    
+
     &-danger:last-child.progress-bar:before {
       background-color: lighten($brand-danger, 25%);
     }
