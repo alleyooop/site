@@ -1,5 +1,36 @@
 .well {
-  
+
   border: 1px solid #F3E6F7;
-  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// intro block
+
+.intro {
+
+  background-color: white;
+  margin-bottom: 20px;
+  margin-top: -25px;
+  text-align: center;
+  padding: 40px;
+
+  h1 {
+
+    color: $brand-primary;
+
+  }
+
 }
