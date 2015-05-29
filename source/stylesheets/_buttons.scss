@@ -1,0 +1,17 @@
+// black call to action
+
+#cta {
+
+  border: 2px solid black;
+  background-color: transparent;
+  color: black;
+  margin-top: 15px;
+  width: 200px;
+
+  &:hover {
+
+    background-color: $body-bg;
+
+  }
+
+}
